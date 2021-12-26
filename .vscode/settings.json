@@ -1,0 +1,21 @@
+{
+    "editor.rulers": [
+      80
+    ],
+    "files.exclude": {
+      "**/.git": true,
+      "**/node_modules": true,
+      "**/build": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "flow.useNPMPackagedFlow": true,
+    "javascript.validate.enable": false,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ]
+  }
